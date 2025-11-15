@@ -1,5 +1,6 @@
 # dotfiles
 configs for my arch hyprland setup
+<img width="1366" height="768" alt="20251115_221903" src="https://github.com/user-attachments/assets/cb1cafee-bc04-4d5a-be49-ff1238388556" />
 
 mostly a modified version of [gaurav's hyprland configs](https://github.com/gaurav23b/simple-hyprland)
 
