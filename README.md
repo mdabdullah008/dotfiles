@@ -10,4 +10,6 @@ configs for my arch hyprland setup
 - SDDM: [Uiriansan's SilentSDDM Theme](https://github.com/uiriansan/SilentSDDM) (Catppuccin Mocha Blue)
 - wlogout: [Catppuccin wlogout Theme](https://github.com/catppuccin/wlogout) (Mocha Blue)
 
-# Ricing instructions (coming soon)
+# Ricing instructions
+1. Clone gaurav's repo and run the script
+2. add every modified files of my repository to the config folder
