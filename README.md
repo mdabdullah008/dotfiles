@@ -13,3 +13,4 @@ configs for my arch hyprland setup
 # Ricing instructions
 1. Clone gaurav's repo and run the script
 2. add every modified files of my repository to the config folder
+3. apply uiriansan's sddm theme
